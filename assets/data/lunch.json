@@ -1,0 +1,11 @@
+
+{
+    "lunch":
+       [
+        {"name": "Rice", "price": "13.65", "calories": "300"},
+        {"name": "Chappati", "price": "16.67", "calories": "250"},
+        {"name": "Cereal Soup", "price": "5.5", "calories": "150"},
+        {"name": "Shahi Paneer", "price": "7.5", "calories": "200"}
+       ]
+ 
+ }

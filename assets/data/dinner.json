@@ -1,0 +1,11 @@
+
+{
+    "dinner":
+       [
+        {"name": "Roti", "price": "13.65", "calories": "200"},
+        {"name": "Soup", "price": "10.00", "calories": "120"},
+        {"name": "Yoghurt", "price": "2.5", "calories": "150"},
+        {"name": "Dal Makhni", "price": "8.5", "calories": "250"}
+       ] 
+ 
+ }
